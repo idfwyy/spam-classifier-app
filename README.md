@@ -2,7 +2,7 @@
 
 An interactive web app that classifies SMS messages as spam or ham, powered by a Multinomial Naive Bayes model trained on the SMS Spam Collection dataset.
 
-**👉 Try it live:** 
+**👉 Try it live:**  https://spam-classifier-app-idfwyy.streamlit.app/
 
 ## What it does
 
